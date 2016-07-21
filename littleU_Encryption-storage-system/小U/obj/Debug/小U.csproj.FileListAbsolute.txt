@@ -1,0 +1,255 @@
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\bin\Debug\小U.exe.config
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\bin\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\bin\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\Interop.ADODB.dll
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\Interop.ADOX.dll
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.csproj.ResolveComReference.cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.Properties.Resources.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.csproj.GenerateResource.Cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.About.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.Find.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.jiaMi_Fast.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.JiaMi_Mian.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.JieMi_Mian.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.NineLock.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.UI.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.UserXiuGai.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.XiuGai.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\U盘加密（万网加密）系统\obj\Debug\小U.Start.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\bin\Debug\小U.exe.config
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\Interop.ADODB.dll
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\Interop.ADOX.dll
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\bin\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\bin\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.About.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.Find.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.jiaMi_Fast.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.JiaMi_Mian.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.JieMi_Mian.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.NineLock.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.Properties.Resources.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.UI.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.UserXiuGai.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.XiuGai.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.Start.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版 - 副本\小U\obj\Debug\小U.csproj.GenerateResource.Cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\bin\Debug\小U.exe.config
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\Interop.ADODB.dll
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\Interop.ADOX.dll
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\bin\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\bin\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.About.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.Find.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.jiaMi_Fast.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.JiaMi_Mian.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.JieMi_Mian.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.NineLock.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.Properties.Resources.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.UI.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.UserXiuGai.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.XiuGai.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.Start.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\U盘加密（万网加密）系统\现版\小U\obj\Debug\小U.csproj.GenerateResource.Cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\bin\Debug\小U.exe.config
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\Interop.ADODB.dll
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\Interop.ADOX.dll
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\bin\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\bin\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.About.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.Find.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.NineLock.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.Properties.Resources.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.Start.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.csproj.GenerateResource.Cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.csprojResolveAssemblyReference.cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.Backup.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.Register.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.Encryption.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.Decryption.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.Mian.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.PwdChange.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\现版\小U\obj\Debug\小U.UserManage.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\bin\Debug\小U.exe.config
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\Interop.ADODB.dll
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\Interop.ADOX.dll
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\bin\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\bin\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.csprojResolveAssemblyReference.cache
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.About.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.Backup.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.Find.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.Register.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.Encryption.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.Decryption.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.NineLock.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.Properties.Resources.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.Mian.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.UserManage.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.PwdChange.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.Start.resources
+E:\学习\课程学习\2015 全国密码竞赛\决赛\现版\小U\obj\Debug\小U.csproj.GenerateResource.Cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\bin\Debug\小U.exe.config
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\Interop.ADODB.dll
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\Interop.ADOX.dll
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\bin\Debug\小U.exe
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\bin\Debug\小U.pdb
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.csprojResolveAssemblyReference.cache
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.About.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.Backup.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.Find.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.Register.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.Encryption.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.Decryption.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.NineLock.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.Properties.Resources.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.Mian.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.UserManage.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.PwdChange.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.Start.resources
+E:\学习\课程学习\2015 全国密码竞赛\复赛\小U-多用户U盘加密系统\小U\小U\obj\Debug\小U.csproj.GenerateResource.Cache
+H:\小U\小U\bin\Debug\小U.exe.config
+H:\小U\小U\obj\Debug\Interop.ADODB.dll
+H:\小U\小U\obj\Debug\Interop.ADOX.dll
+H:\小U\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+H:\小U\小U\obj\Debug\小U.exe
+H:\小U\小U\obj\Debug\小U.pdb
+H:\小U\小U\bin\Debug\小U.exe
+H:\小U\小U\bin\Debug\小U.pdb
+H:\小U\小U\obj\Debug\小U.About.resources
+H:\小U\小U\obj\Debug\小U.Backup.resources
+H:\小U\小U\obj\Debug\小U.Find.resources
+H:\小U\小U\obj\Debug\小U.Register.resources
+H:\小U\小U\obj\Debug\小U.Encryption.resources
+H:\小U\小U\obj\Debug\小U.Decryption.resources
+H:\小U\小U\obj\Debug\小U.NineLock.resources
+H:\小U\小U\obj\Debug\小U.Properties.Resources.resources
+H:\小U\小U\obj\Debug\小U.Mian.resources
+H:\小U\小U\obj\Debug\小U.UserManage.resources
+H:\小U\小U\obj\Debug\小U.PwdChange.resources
+H:\小U\小U\obj\Debug\小U.Start.resources
+H:\小U\小U\obj\Debug\小U.csproj.GenerateResource.Cache
+J:\小U\小U\bin\Debug\小U.exe.config
+J:\小U\小U\obj\Debug\Interop.ADODB.dll
+J:\小U\小U\obj\Debug\Interop.ADOX.dll
+J:\小U\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+J:\小U\小U\obj\Debug\小U.exe
+J:\小U\小U\obj\Debug\小U.pdb
+J:\小U\小U\bin\Debug\小U.exe
+J:\小U\小U\bin\Debug\小U.pdb
+J:\小U\小U\obj\Debug\小U.csprojResolveAssemblyReference.cache
+J:\小U\小U\obj\Debug\小U.About.resources
+J:\小U\小U\obj\Debug\小U.Backup.resources
+J:\小U\小U\obj\Debug\小U.Find.resources
+J:\小U\小U\obj\Debug\小U.Register.resources
+J:\小U\小U\obj\Debug\小U.Encryption.resources
+J:\小U\小U\obj\Debug\小U.Decryption.resources
+J:\小U\小U\obj\Debug\小U.NineLock.resources
+J:\小U\小U\obj\Debug\小U.Properties.Resources.resources
+J:\小U\小U\obj\Debug\小U.Mian.resources
+J:\小U\小U\obj\Debug\小U.UserManage.resources
+J:\小U\小U\obj\Debug\小U.PwdChange.resources
+J:\小U\小U\obj\Debug\小U.Start.resources
+J:\小U\小U\obj\Debug\小U.csproj.GenerateResource.Cache
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\bin\Debug\小U.exe.config
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\Interop.ADODB.dll
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\Interop.ADOX.dll
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.exe
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.pdb
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\bin\Debug\小U.exe
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\bin\Debug\小U.pdb
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.About.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.Backup.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.Find.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.Register.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.Encryption.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.Decryption.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.NineLock.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.Properties.Resources.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.PwdChange.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.Start.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.csproj.GenerateResource.Cache
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\bin\Debug\小U.exe.config
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\Interop.ADODB.dll
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\Interop.ADOX.dll
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.exe
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.pdb
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\bin\Debug\小U.exe
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\bin\Debug\小U.pdb
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\bin\Debug\Interop.IWshRuntimeLibrary.dll
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.csprojResolveAssemblyReference.cache
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.About.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.Backup.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.Find.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\广播_服务器端.Form1.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.Register.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.Encryption.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.Decryption.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.NineLock.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.Properties.Resources.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.Mian.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.UserManage.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.PwdChange.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.Start.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9\小U\obj\Debug\小U.csproj.GenerateResource.Cache
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\bin\Debug\小U.exe.config
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\Interop.ADODB.dll
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\Interop.ADOX.dll
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.exe
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.pdb
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.csprojResolveAssemblyReference.cache
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.About.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.Backup.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.Find.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.Register.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.Encryption.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.Decryption.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.NineLock.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.Properties.Resources.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.Mian.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.UserManage.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.PwdChange.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.Start.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.csproj.GenerateResource.Cache
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\bin\Debug\小U.exe
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\bin\Debug\小U.pdb
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\bin\Debug\Interop.IWshRuntimeLibrary.dll
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.QrCodeCheck.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\obj\Debug\小U.Welcome.resources
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\bin\Debug\zxing.dll
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\bin\Debug\zxing.pdb
+E:\学习\课程学习\毕业设计\毕业设计\开发备份\小U-2016.3.9 - 副本\小U\bin\Debug\zxing.xml
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.QrCodeCheck.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.Welcome.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.UserManage2.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\bin\Debug\Interop.ADOX.dll
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.Main.resources
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\bin\Debug\Interop.ADODB.dll
+E:\学习\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.csprojResolveAssemblyReference.cache
+K:\Main\课程学习\毕业设计\毕业设计\小U\小U\bin\Debug\小U.exe.config
+K:\Main\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\Interop.ADODB.dll
+K:\Main\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\Interop.ADOX.dll
+K:\Main\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.csproj.ResolveComReference.cache
+K:\Main\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.exe
+K:\Main\课程学习\毕业设计\毕业设计\小U\小U\obj\Debug\小U.pdb
