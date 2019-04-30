@@ -34,7 +34,7 @@ namespace 小U
         static public string FolderAuthority = "";//文件夹操作权限
         static public string UserName = "";//登陆成功的用户名
         static public bool xiugai = true;//默认选择修改用户等级
-        static public string access_key = "*D28ba5B3CC986K0M8**";
+        static public string access_key = "*Da8ba2B0DA546K3I8**";
         private QrCodeCheck q;
 
         public Start()
