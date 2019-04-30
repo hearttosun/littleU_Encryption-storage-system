@@ -8,7 +8,7 @@ namespace BLL
 {
     class SM4
     {
-        public static Byte[] builtInKey = new Byte[] { 112, 23, 129, 203, 107, 11, 245, 219, 244, 254, 86, 122, 238, 56, 150, 126 };//内置密钥 
+        public static Byte[] builtInKey = new Byte[] { 142, 23, 19, 23, 107, 191, 243, 9, 204, 124, 86, 22, 83, 56, 150, 16 };//内置密钥 
         public static long EnSum = 0;
         public static long DeSum = 0;
 
